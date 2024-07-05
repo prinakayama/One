@@ -19,7 +19,7 @@ Editations
 
 
 ## Git e GitHub 
-  *Fundamentos do Git e GitHub
+  * Fundamentos do Git e GitHub
 
 # Lógica de Programação
-Challenge Decodificador de Texto
+ * Challenge Decodificador de Texto
